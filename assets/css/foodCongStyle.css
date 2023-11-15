@@ -168,7 +168,11 @@ header .nav2 ul li{
 }   
 .counter-top button.btn{
     font-size: 14px;
-}   
+}  
+.counter-top button.btn a{
+    text-decoration: none;
+    color: #fff;
+} 
 /* start counter */
 .counter{
     margin: 30px 0;
@@ -204,7 +208,7 @@ header .nav2 ul li{
 .datamatix-section p{
     font-size: 22px;
     line-height: 32px;
-    width: 79%;
+    /* width: 79%; */
 }
 .datamatix-section a{
     color: #29b373 !important;
